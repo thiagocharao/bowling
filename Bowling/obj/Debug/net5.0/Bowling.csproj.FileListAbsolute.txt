@@ -1,0 +1,15 @@
+/Users/thiagocharao/Private/Bowling/Bowling/bin/Debug/net5.0/Bowling.deps.json
+/Users/thiagocharao/Private/Bowling/Bowling/bin/Debug/net5.0/Bowling.runtimeconfig.json
+/Users/thiagocharao/Private/Bowling/Bowling/bin/Debug/net5.0/Bowling.runtimeconfig.dev.json
+/Users/thiagocharao/Private/Bowling/Bowling/bin/Debug/net5.0/Bowling.dll
+/Users/thiagocharao/Private/Bowling/Bowling/bin/Debug/net5.0/ref/Bowling.dll
+/Users/thiagocharao/Private/Bowling/Bowling/bin/Debug/net5.0/Bowling.pdb
+/Users/thiagocharao/Private/Bowling/Bowling/obj/Debug/net5.0/Bowling.csprojAssemblyReference.cache
+/Users/thiagocharao/Private/Bowling/Bowling/obj/Debug/net5.0/Bowling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagocharao/Private/Bowling/Bowling/obj/Debug/net5.0/Bowling.AssemblyInfoInputs.cache
+/Users/thiagocharao/Private/Bowling/Bowling/obj/Debug/net5.0/Bowling.AssemblyInfo.cs
+/Users/thiagocharao/Private/Bowling/Bowling/obj/Debug/net5.0/Bowling.csproj.CoreCompileInputs.cache
+/Users/thiagocharao/Private/Bowling/Bowling/obj/Debug/net5.0/Bowling.dll
+/Users/thiagocharao/Private/Bowling/Bowling/obj/Debug/net5.0/ref/Bowling.dll
+/Users/thiagocharao/Private/Bowling/Bowling/obj/Debug/net5.0/Bowling.pdb
+/Users/thiagocharao/Private/Bowling/Bowling/obj/Debug/net5.0/Bowling.genruntimeconfig.cache
